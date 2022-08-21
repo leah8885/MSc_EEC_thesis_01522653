@@ -3,6 +3,10 @@ code and data for the MSc EEC project "Ecosystem Stability in Space"
 
 Reference list for the packages used in the code:
 
+Aldersley A, Orme D (2022). _safedata: Interface to Data from the SAFE
+Project_. R package version 1.1.1,
+<https://CRAN.R-project.org/package=safedata>.
+
 Bivand, R.S., Pebesma, E., Gomez-Rubio, V. (2013). Applied spatial
 data analysis with R, Second edition. Springer, NY. https://asdar-book.org/
 
